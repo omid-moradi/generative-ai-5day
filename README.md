@@ -1,7 +1,7 @@
 # 🚀 5-Day Generative AI Course by Google & Kaggle
 
 <p align="center">
-  <img src="img.png" alt="5-Day Generative AI Course Banner" width="80%">
+  <img src="Gen%20AI/img.png" alt="5-Day Generative AI Course Banner" width="80%">
 </p>
 
 Welcome to my GitHub repository for the **5-Day Generative AI Course** — a free and hands-on course released by **Google** in collaboration with **Kaggle**.  
